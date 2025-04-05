@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Sumair Irshad](https://github.com/yourusername/yourimage.png)
+![Sumair Irshad](./pic)
 
 Hi, I'm **Sumair Irshad**, a passionate **AI and Data Science** enthusiast. Currently, I am the **Head of AI and Data Science** at Pentavision Technologies, where I focus on developing cutting-edge solutions in **AI**, **Machine Learning**, and **Computer Vision**.
 
